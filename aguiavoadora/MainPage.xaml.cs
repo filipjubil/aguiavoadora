@@ -11,14 +11,14 @@ public partial class MainPage : ContentPage
 	{
 		InitializeComponent();
 	}
-void Aplica Gravidade()
+   void Aplica Gravidade()
 {
-	img pardol.Translation y+= gravidade;
+	Image.Anchorx Properti
 }
     protected override void OnAppearing()
     {
         base.OnAppearing();
-		desenha();
+	();
     }
     private void OnCounterClicked(object sender, EventArgs e)
 	{
